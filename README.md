@@ -52,6 +52,7 @@ With a full-fledged user system, a user interface, and an ACP for managing accou
 - [ ] Configurable groups <sup>(Option to create and edit own groups (currently the groups admin, staff and customer is pre-defined))</sup>
 - [ ] Rights management <sup>(Configure the rights of the groups)</sup>
 - [ ] Contact form <sup>(A simple contact form)</sup>
+- [ ] Installer <sup>(A short installer script for automatic installation)</sup>
 
 <br>
 
