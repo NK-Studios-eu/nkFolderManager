@@ -53,6 +53,7 @@ With a full-fledged user system, a user interface, and an ACP for managing accou
 - [ ] Rights management <sup>(Configure the rights of the groups)</sup>
 - [ ] Contact form <sup>(A simple contact form)</sup>
 - [ ] Installer <sup>(A short installer script for automatic installation)</sup>
+- [ ] Settings Page <sup>(For setting colors, logos and more)</sup>
 
 <br>
 
