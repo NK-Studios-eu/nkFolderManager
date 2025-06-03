@@ -1,4 +1,7 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="logo-large.png" style="height: 256px;">
+</p>
 
 <!-- MAIN INFORMATION -->
 <p align="center">
@@ -17,7 +20,7 @@
 <br>
 
 <!-- DESCRIPTION -->
-# nkFolderManager - Password protected folders
+# <img src="logo.png" style="height: 25px;"> nkFolderManager - Password protected folders
 The name already suggests what the tool can do. But it can do much more than just password-protect folders.
 I was tired of constantly protecting folders with .htaccess and .htpasswd. Most web server users are familiar with this. This pop-up window where you enter your login credentials looks incredibly ugly and uninspired.
 I programmed a web app with FolderManager that makes the whole thing more attractive and technically sophisticated.
