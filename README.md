@@ -63,3 +63,17 @@ With a full-fledged user system, a user interface, and an ACP for managing accou
 <!-- SUPPORT -->
 ## 》SUPPORT
 [![DiscordBanner](https://invidget.switchblade.xyz/242443392389349376?language=de)](https://discord.gg/nicekype)
+
+<br>
+
+> [!TIP]
+> You want a translation of the tool in your language and it's currently not available, then you can help us by request your language and submit a translation [HERE](https://crowdin.com/project/nkfoldermanager).
+
+**Status of the translation:**<br>
+[![en translation](https://img.shields.io/badge/en_US-100%25-blue?style=flat-square&logo=crowdin&label=en-US
+)](https://crowdin.com/project/nkfoldermanager)
+[![de translation](https://img.shields.io/badge/dynamic/json?color=blue&label=de&style=flat-square&logo=crowdin&query=%24.progress.0.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
+[![es-ES translation](https://img.shields.io/badge/dynamic/json?color=blue&label=es-ES&style=flat-square&logo=crowdin&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
+[![fr translation](https://img.shields.io/badge/dynamic/json?color=blue&label=fr&style=flat-square&logo=crowdin&query=%24.progress.2.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
+[![it translation](https://img.shields.io/badge/dynamic/json?color=blue&label=it&style=flat-square&logo=crowdin&query=%24.progress.3.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
+[![nl translation](https://img.shields.io/badge/dynamic/json?color=blue&label=nl&style=flat-square&logo=crowdin&query=%24.progress.4.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
