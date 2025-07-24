@@ -5,15 +5,16 @@
 
 <!-- MAIN INFORMATION -->
 <p align="center">
-  <a href="https://github.com/NiceKype/nkFolderManager#foldermanager">Overview</a> •
+  <a href="#-nkfoldermanager---password-protected-folders">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.de">Website</a> •
-  <a href="/LICENSE">License</a><br>
+  <a href="?tab=License-1-ov-file">License</a><br>
   <img src="https://img.shields.io/badge/Status-WIP-CC0000.svg?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-07.05.2025-272727.svg?style=for-the-badge" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/github/downloads/NiceKype/nkFolderManager/total?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/NiceKype/nkFolderManager.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-NPS--1.1-red.svg?style=for-the-badge" alt="License">
   <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/nicekype?style=for-the-badge" alt="Discord" href="https://discord.gg/nicekype">
 </p>
 
@@ -79,3 +80,9 @@ With a full-fledged user system, a user interface, and an ACP for managing accou
 [![fr translation](https://img.shields.io/badge/dynamic/json?color=blue&label=fr&style=flat-square&logo=crowdin&query=%24.progress.2.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
 [![it translation](https://img.shields.io/badge/dynamic/json?color=blue&label=it&style=flat-square&logo=crowdin&query=%24.progress.3.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
 [![nl translation](https://img.shields.io/badge/dynamic/json?color=blue&label=nl&style=flat-square&logo=crowdin&query=%24.progress.4.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806466.json)](https://crowdin.com/project/nkfoldermanager)
+
+<br>
+
+<!-- LICENSE -->
+## 》LICENSE
+🛡️ This tool is licensed under: [NKS-Public-License (NPS-1.1)](/LICENSE) – see terms before using or modifying this code.
