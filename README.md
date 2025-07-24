@@ -9,7 +9,7 @@
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.de">Website</a> •
   <a href="https://github.com/NK-Studios-eu/nkFolderManager?tab=License-1-ov-file">License</a><br>
-  <img src="https://img.shields.io/badge/Status-WIP-CC0000.svg?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-In--Progress-orange.svg?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-07.05.2025-272727.svg?style=for-the-badge" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.3-blue.svg?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/github/downloads/NK-Studios-eu/nkFolderManager/total?style=for-the-badge">
