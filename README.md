@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/github/downloads/NiceKype/nkFolderManager/total?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/NiceKype/nkFolderManager.svg?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-NPS--1.1-red.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/License-NKPL--1.1-red.svg?style=for-the-badge" alt="License">
   <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/nicekype?style=for-the-badge" alt="Discord" href="https://discord.gg/nicekype">
 </p>
 
@@ -85,4 +85,4 @@ With a full-fledged user system, a user interface, and an ACP for managing accou
 
 <!-- LICENSE -->
 ## 》LICENSE
-🛡️ This tool is licensed under: [NKS-Public-License (NPS-1.1)](/LICENSE) – see terms before using or modifying this code.
+🛡️ This tool is licensed under: [NKS-Public-License (NKPL-1.1)](/LICENSE) – see terms before using or modifying this code.
